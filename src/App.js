@@ -173,7 +173,7 @@ function App() {
       </div>
 
       <footer>
-        <div>
+        <div className="container">
           <h1>
             © MEL CHRISTIAN QUIDET
             <a href="https://web.facebook.com/profile.php?id=100079574894763"></a>
