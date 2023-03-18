@@ -27,6 +27,9 @@ body {
   border: 1px solid white;
   outline: none;
 }
+.calculator-grid button:last-child {
+  color: white;
+}
 .calculator-grid > button:hover,
 .calculator-grid > button:focus {
   background: linear-gradient(
